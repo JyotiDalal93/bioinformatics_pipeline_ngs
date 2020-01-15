@@ -47,6 +47,6 @@ snakemake --cores 8
 snakemake --dag | dot -Tpdf > name_file.pdf
 ```
 
--- Have a look at the **beautiful figures** generated using this pipeline
--- Figures are there in the folder titled **Figures** (current repository) :P
+- Have a look at the **beautiful figures** generated using this pipeline
+- Figures are there in the folder titled **Figures** (current repository) :P
 
