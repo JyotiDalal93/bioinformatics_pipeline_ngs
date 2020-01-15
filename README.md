@@ -1,4 +1,4 @@
-### A pipeline written using Snakemake
+## A pipeline written using Snakemake
 
 *Aim: to get the value of present-day human contamination in human DNA sample*
 
