@@ -3,7 +3,7 @@
 *Aim: to get the value of present-day human contamination in human DNA sample*
 
 
-The various tasks done by this pipeline are:
+The various tasks done by this pipeline are (also, see **main_steps_done.pdf** for more clarity):
 
 - Downloading the WGS (whole genome sequence) data files (for instance, BAM files) from the respective website
 
