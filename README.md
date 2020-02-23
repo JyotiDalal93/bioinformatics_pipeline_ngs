@@ -1,6 +1,6 @@
-## A pipeline written using Snakemake
+## A pipeline written using workflow
 
-*Aim: to get the value of present-day human contamination in human DNA sample*
+*Aim: to get the value of present-day human contamination in human DNA samples*
 
 
 The various tasks done by this pipeline are (also, see **main_steps_done.pdf** for more clarity):
