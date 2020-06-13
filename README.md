@@ -1,4 +1,4 @@
-## A pipeline written using workflow
+## A pipeline written using snakemake-workflow
 
 *Aim: to get the value of present-day human contamination in human DNA samples*
 
